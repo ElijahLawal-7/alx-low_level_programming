@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system">
   <head>
@@ -15,9 +8,6 @@
   <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
   <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
   <link rel="preconnect" href="https://avatars.githubusercontent.com">
-
-
-
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-5178aee0ee76.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-217d4f9c8e70.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-0adfa28f0e68.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-1c8575b36644.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-5113d2be20b0.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-c96add742484.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-290f92f5e867.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-cdd88f146bf7.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-2171ea0f078b.css" />
   
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-0e158a2f5ddd.css" />
@@ -64,22 +54,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_scroll-anchoring_di-a017b0-6491ca652951.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-f314c3-347d734f1aea.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-f59c97444e87.js"></script>
-  
-
   <title>alx-low_level_programming/libdynamic.so at master · Jayne-0/alx-low_level_programming · GitHub</title>
-
-
-
-    
-
   <meta name="request-id" content="B584:23EB:1FEEBD5:2B9A0D8:631C0E52" data-pjax-transient="true"/><meta name="html-safe-nonce" content="fca435dbf01fedc578d523eb9457491b11bacf3f9932cbb6e792c69f4c6dcba1" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJCNTg0OjIzRUI6MUZFRUJENToyQjlBMEQ4OjYzMUMwRTUyIiwidmlzaXRvcl9pZCI6IjE2NjIyNjUwODgxMDYzMDMwNTgiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="2b85bd98ab3056cd54a3733b52e714f7d8f957b623927a6751c860992c233917" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:499207753" data-pjax-transient>
 
-
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-pjax-transient="true" />
   
-
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
     <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
@@ -91,18 +72,7 @@
 <meta name="octolytics-url" content="https://collector.github.com/github/collect" />
 
   <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
-
-  
-
-
-
-
-  
-
     <meta name="user-login" content="">
-
-  
-
     <meta name="viewport" content="width=device-width">
     
       <meta name="description" content="Contribute to Jayne-0/alx-low_level_programming development by creating an account on GitHub.">
@@ -111,20 +81,14 @@
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
       <meta name="twitter:image:src" content="https://opengraph.githubassets.com/048109f223f7b56b8e69001ee9116c84503589a81c47bad1c658491acbe798b5/Jayne-0/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/libdynamic.so at master · Jayne-0/alx-low_level_programming" /><meta name="twitter:description" content="Contribute to Jayne-0/alx-low_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/048109f223f7b56b8e69001ee9116c84503589a81c47bad1c658491acbe798b5/Jayne-0/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Jayne-0/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/libdynamic.so at master · Jayne-0/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Jayne-0/alx-low_level_programming" /><meta property="og:description" content="Contribute to Jayne-0/alx-low_level_programming development by creating an account on GitHub." />
-      
+      <meta property="og:image" content="https://opengraph.githubassets.com/048109f223f7b56b8e69001ee9116c84503589a81c47bad1c658491acbe798b5/Jayne-0/alx-low_level_programming" /><meta property="og:image:alt" content="Contribute to Jayne-0/alx-low_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/libdynamic.so at master · Jayne-0/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Jayne-0/alx-low_level_programming" /><meta property="og:description" content="Contribute to Jayne-0/alx-low_level_programming development by creating an account on GitHub." />      
     <link rel="assets" href="https://github.githubassets.com/">
 
-
         <meta name="hostname" content="github.com">
-
-
 
         <meta name="expected-hostname" content="github.com">
 
     <meta name="enabled-features" content="IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS,STRICT_DEFERRED_DIFF_LINES_CHECKS">
-
-
   <meta http-equiv="x-pjax-version" content="ecce41c73b2d13dfe17bafd53a07b5c1a92263568aafb6a3c4c866db2b5bba23" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="d36423f9dec35f40d75bda7103dfcd1e46c44bd6aac49a971abe9919b3354f73" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="82bfdecb53812f0464c0068e78fcb1916389c203f9a2f216cc25a5344ad65d23" data-turbo-track="reload">
@@ -132,17 +96,12 @@
 
   <meta name="turbo-cache-control" content="no-preview" data-pjax-transient="">
 
-    
   <meta name="go-import" content="github.com/Jayne-0/alx-low_level_programming git https://github.com/Jayne-0/alx-low_level_programming.git">
 
   <meta name="octolytics-dimension-user_id" content="105009097" /><meta name="octolytics-dimension-user_login" content="Jayne-0" /><meta name="octolytics-dimension-repository_id" content="499207753" /><meta name="octolytics-dimension-repository_nwo" content="Jayne-0/alx-low_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="499207753" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Jayne-0/alx-low_level_programming" />
 
-
-
     <link rel="canonical" href="https://github.com/Jayne-0/alx-low_level_programming/blob/master/0x18-dynamic_libraries/libdynamic.so" data-pjax-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
-
-
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
 
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
